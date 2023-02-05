@@ -53,9 +53,9 @@ include('inc/header.php');
 						<div class="col-sm-12 controls">
 						  <input type="submit" name="login" value="Login" class="btn btn-info">						  
 						</div>						
-					</div>	
+					</div>
 					
-					<p><h3>User Login1</h3>
+					<p><h2>User Login1</h2>
 					<h3>User Login</h3>
 					<strong>Email: </strong>admin@webdamn.com<br>
 					<strong>Password:</strong> 123<br><br>		
