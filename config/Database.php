@@ -4,7 +4,7 @@ class Database{
 	
 	private $host  = 'localhost';
     private $user  = 'u587644132_expuser';
-    private $password   = "public@123";
+    private $password   = "Public@123";
     private $database  = "u587644132_expsystemmvc"; 
     
     public function getConnection(){		
